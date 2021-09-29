@@ -1,4 +1,4 @@
-align="center"> SEX EDUCATION </h1>
+<p align="center"> SEX EDUCATION </h1>
 <p align="center">
   <img width="350" src="https://user-images.githubusercontent.com/91221709/135177601-1461ffb3-6f3b-46db-b143-afd67c2d210c.jpeg" alt="Sex Education Poster">
 </p>
