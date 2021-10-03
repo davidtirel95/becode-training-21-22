@@ -1,0 +1,179 @@
+
+
+body{
+    margin: 0;
+    padding: 0;
+    max-width: 90%;
+    margin: auto;
+    color:darkblue;
+    font: serif;
+    font-weight: bolder;
+    background-color: hidden rgb(161, 101, 39);
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: url(tomoko-uji-MUPCSMPgh6k-unsplash.jpeg);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    color:darkblue; 
+    font: serif;
+    line-height: 1.5;
+}
+
+a {
+    color: purple;
+}
+
+
+a:visited {
+    color: orangered;
+}
+
+.villagers {
+   border-left: 3px solid firebrick;
+   padding-left: 3px;
+   font-style: italic;
+}
+
+.farmer {
+    border-left: 3px solid firebrick;
+    padding-left: 3px;
+    font-style: italic;
+}
+
+blockquote {
+    padding-left: 30px;
+    font-size: 160%;
+    background-color:gray;
+    margin: 80px auto;
+}
+
+table {
+    border: 3px solid white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+#table {
+    text-align: center;
+}
+#caption {
+    text-align: center;
+}
+
+
+h1 {
+    background-color: yellow;
+}
+
+.good {
+    text-transform: capitalize;
+    color: green;
+}
+
+.bad {
+    text-transform: capitalize;
+    color: red;
+}
+
+#white {
+    background-color: white;
+}
+
+#grey {
+    background-color: grey;
+}
+
+#up {
+    background-image: url(https://raw.githubusercontent.com/becodeorg/BXL-Swartz-5.34/main/1.The-Field/8.Html-CSS/progressive-enhancement/bien.png?token=AVX65TJRK2DJNHWDJ3JBAFLBMBH7O);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+   
+}
+
+#down {
+    background-image: url(https://raw.githubusercontent.com/becodeorg/BXL-Swartz-5.34/main/1.The-Field/8.Html-CSS/progressive-enhancement/mal.png?token=AVX65TP7EG3DURXKP5652T3BMBLAQ);
+    background-repeat: no-repeat;
+    background-position: right;
+   padding-right: 50px;
+   padding-top: 25px;
+   padding-bottom: 20px;
+   
+}
+
+#cat {
+    background-image: url(https://raw.githubusercontent.com/becodeorg/BXL-Swartz-5.34/main/1.The-Field/8.Html-CSS/progressive-enhancement/chat.png?token=AVX65TOSA7CMVWMDHEZHDZTBMBLEO);
+    background-repeat: no-repeat;
+    background-position: right;
+   padding-right: 50px;
+   padding-top: 25px;
+   padding-bottom: 15px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+
+.flexbox-item-1 {
+ width: 500px;
+ height: 300px;
+ 
+
+}
+
+.flexbox-item-2 {
+padding-left: 8%;
+
+}
+
+.flexbox1 {
+display: flex;
+align-items: center;
+
+} 
+
+img {
+ width: 400px;
+height: 300px;
+}
+.flexboximg1 {
+
+}
+
+.flexboxcap {
+    font-size: 30px;
+
+}
+
+.story {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+}
+.story-img {
+    
+
+}
+
+.story-content {
+    
+
+}
+h2 {
+    text-align: center;
+}
+
+@font-face {
+
+    src: url(./Open_Sans/static/OpenSans/OpenSans-Regular.ttf)
+}
