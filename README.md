@@ -2,7 +2,6 @@
 # Hello 🌐  World
 
 
-## David Tirel-Belaïd
 🍬 🧠 🌈 🧠 🍬
 
 ⭐ 🌟 ⭐ 🌟 ⭐
