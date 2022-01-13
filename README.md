@@ -6,22 +6,22 @@
 
 ⭐ 🌟 ⭐ 🌟 ⭐
 
-* #### Creative corporate anarchist
-While working in IT I aim to free people from global patriarchy, financial pigs and worldwide oppressive mindsets. By exploring, creating and sharing  new and diverse possibilites of living either socially, financially, or creatively. A lot has been done and needs to be re-thought, re-newed and re-owned.
+* #### Obsolete stardust
+While sailing in between galaxies working in IT I aim to free people from worldwide oppressive patriarchy and financial pigs. By creating and sharing new and diverse possibilites of living either socially, financially, or creatively. A lot has been done and needs to be re-thought, re-owned and re-newed. 
 
 ## SKILLS 👑
 
 * opening doors with my toes 🦶
-* intense music digger 💿
+* eclectic music digger 💿
 * dad jokes & bad word play 🥇
 
 ## 💜 💜 💜 💜
 1. Halloween 👻
-2. Eurodance 🍭
+2. Creativity 🍭
 3. Sarcasm 🖤
 
 ## OBJECTIVES ⚽
-Grow confidence and fluidity in writing code to be able to become a freelance developper and work with any company or project.
+Work as a freelance developer with companies and individuals on interesting/challenging quality projects.
 
 ## FEARS 😨
 **MANY**
@@ -29,7 +29,7 @@ Grow confidence and fluidity in writing code to be able to become a freelance de
 ____________________________________
 
 
-Being at **BeCode** I want to achieve the objectives that I've set earlier and work in a friendly creative network of passionates. The best way to reach our goals and wider projects is by a working as a team, so we need as much to *communicate* about the issues we face as we have to *support each other*, *being open-minded*, *solution oriented* and *assertive* while **being funny** !  
+Being at **BeCode** I want to work on my soft skills. Working as a team, *communication*, *support*, *open-minded*, *solution oriented* and *assertive* while **being funny** !  
 
 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜
 
