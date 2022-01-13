@@ -7,7 +7,9 @@
 ⭐ 🌟 ⭐ 🌟 ⭐
 
 * #### Obsolete stardust
-While sailing in between galaxies working in IT I aim to free people from worldwide oppressive patriarchy and financial pigs. By creating and sharing new and diverse possibilites of living either socially, financially, or creatively. A lot has been done and needs to be re-thought, re-owned and re-newed. 
+While sailing in between galaxies I aim to create souvenirs with my fellow human and non-human beings through interesting sensfull projects. 
+Trying to find solutions to live in our worldwide oppressive patriarchy system.(ideas welcomed <3)
+A lot has been done and needs to be re-thought, updated and re-owned.   
 
 ## SKILLS 👑
 
@@ -21,15 +23,15 @@ While sailing in between galaxies working in IT I aim to free people from worldw
 3. Sarcasm 🖤
 
 ## OBJECTIVES ⚽
-Work as a freelance developer with companies and individuals on interesting/challenging quality projects.
+Work as a freelance developer with companies and individuals on interesting/challenging quality projects, the end-point being : creating memories. 
 
 ## FEARS 😨
-**MANY**
+**who don't ? **
 
 ____________________________________
 
 
-Being at **BeCode** I want to work on my soft skills. Working as a team, *communication*, *support*, *open-minded*, *solution oriented* and *assertive* while **being funny** !  
+Being at **BeCode** I want to work on my soft skills. Working as a team, growing and learning together *communication*, *support*, *open-minded*, *solution oriented* and *assertive* while **being funny** !  
 
 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜
 
