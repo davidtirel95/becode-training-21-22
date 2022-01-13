@@ -6,7 +6,7 @@
 
 ⭐ 🌟 ⭐ 🌟 ⭐
 
-* #### Obsolete stardust
+* #### Obsolete atoms
 While sailing in between galaxies I aim to create souvenirs with my fellow human and non-human beings through interesting sensfull projects. 
 Trying to find solutions to live in our worldwide oppressive patriarchy system.(ideas welcomed <3)
 A lot has been done and needs to be re-thought, updated and re-owned.   
