@@ -26,7 +26,7 @@ A lot has been done and needs to be re-thought, updated and re-owned.
 Work as a freelance developer with companies and individuals on interesting/challenging quality projects, the end-point being : creating memories. 
 
 ## FEARS 😨
-**who don't ? **
+** who don't ? **
 
 ____________________________________
 
