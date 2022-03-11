@@ -23,7 +23,7 @@ A lot has been done and needs to be re-thought, updated and re-owned.
 3. Sarcasm 🖤
 
 ## OBJECTIVES ⚽
-Work as a freelance developer with companies and individuals on interesting/challenging quality projects, the end-point being : creating memories. 
+Work as a freelance developer with companies and individuals on interesting/challenging quality projects. 
 
 ## FEARS 😨
 ** who don't ? **
