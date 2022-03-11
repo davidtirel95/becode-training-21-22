@@ -7,10 +7,8 @@
 ⭐ 🌟 ⭐ 🌟 ⭐
 
 * #### Obsolete atoms
-While sailing in between galaxies I aim to create souvenirs with my fellow human and non-human beings through interesting sensfull projects. 
-Trying to find solutions to live in our worldwide oppressive patriarchy system.*(ideas welcomed <3)*
-A lot has been done and needs to be re-thought, updated and re-owned.   
-
+In between galaxies I aim to create souvenirs with my fellow human and non-human beings through sensfull projects. 
+  
 ## SKILLS 👑
 
 * opening doors with my toes 🦶
@@ -23,15 +21,18 @@ A lot has been done and needs to be re-thought, updated and re-owned.
 3. Sarcasm 🖤
 
 ## OBJECTIVES ⚽
-Work as a freelance developer with companies and individuals on interesting/challenging quality projects. 
+Improve my coding skills by working on interesting collaborations. 
 
 ## FEARS 😨
-** who don't ? **
+** WW3 ? **
 
 ____________________________________
 
 
-Being at **BeCode** I want to work on my soft skills. Working as a team, growing and learning together *communication*, *support*, *open-minded*, *solution oriented* and *assertive* while **being funny** !  
+To be honest being at **BeCode** taught me self-development as much as web-devlopment.  I learned to learn, to prepare first, to have a clear idea and then code.
+I also learned that I'm able to work and learn on my own, be independent, research and find ressources.
+It's been an emotionnal rollercoaster from top to bottom, from managing to build, find solutions and deploy, to being stuck in problems, unsuccessful attempts and feeling exhausted. Now, I have a better idea on how to manage my schedule, divide work and communicate with co-workers.
+
 
 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜 💜
 
