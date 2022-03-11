@@ -21,7 +21,7 @@ In between galaxies I aim to create souvenirs with my fellow human and non-human
 3. Sarcasm 🖤
 
 ## OBJECTIVES ⚽
-Improve my coding skills by working on interesting collaborations. 
+Improve my coding skills through interesting collaborations. 
 
 ## FEARS 😨
 ** WW3 ? **
