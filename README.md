@@ -29,7 +29,7 @@ Improve my coding skills through interesting collaborations.
 ____________________________________
 
 
-To be honest being at **BeCode** taught me self-development as much as web-devlopment.  I learned to learn, to prepare first, to have a clear idea and then code.
+To be honest being at **BeCode** taught me self-development as much as web-development.  I learned to learn, to prepare first, to have a clear idea and then code. This can be applied to any kind of projects.
 I also learned that I'm able to work and learn on my own, be independent, research and find ressources.
 It's been an emotionnal rollercoaster from top to bottom, from managing to build, find solutions and deploy, to being stuck in problems, unsuccessful attempts and feeling exhausted. Now, I have a better idea on how to manage my schedule, divide work and communicate with co-workers.
 
